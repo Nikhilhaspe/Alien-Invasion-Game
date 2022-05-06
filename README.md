@@ -3,7 +3,7 @@
 
 Alien Invasion game written in Python using Pygame library.
 
-[![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)]() [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)  [![](https://img.shields.io/badge/download-releases-brightgreen.svg)](https://github.com/Nikhilhaspe/Alien-Invasion-Game)
+[![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)]() [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://peps.python.org/pep-0008/)  [![](https://img.shields.io/badge/download-releases-brightgreen.svg)](https://github.com/Nikhilhaspe/Alien-Invasion-Game)
 ## Installation
 
 Download the Python 3 installer package from the official website and install it, if not installed previously.
