@@ -38,6 +38,10 @@ settings.py file.
 Download Alien-Invasion-Game-exe folder and dont make any changes
 in that folder just run game main.exe file directly.
 
+## Run exe Directly
+
+Play game [here](https://replit.com/@nicks111/Alien-Invasion-Game?v=1)
+
 ## Objective
 
 Your goal is simple you have to shoot ship fleets as much as
